@@ -11,7 +11,7 @@ assets/*.svg (cartoon food illustrations)
 
 IMPORTANT:
 Open script.js and replace:
-const number="91XXXXXXXXXX";
+const number="91+6287760470";
 with the real WhatsApp number, country code included, no + or spaces.
 
 The website automatically shows the current day (India time) at the top and also displays the complete Monday-Sunday routine below it.
